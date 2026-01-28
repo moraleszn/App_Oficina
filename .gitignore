@@ -1,3 +1,23 @@
 
+
+# Arquivos Python compilados
 *.pyc
 __pycache__/
+
+# Banco de dados local
+db.sqlite3
+
+# Configurações locais e arquivos de ambiente
+.env
+*.env
+
+# Arquivos temporários de editor/IDE
+.vscode/
+.idea/
+*.swp
+*~
+
+# Arquivos de cache do Django
+*.log
+staticfiles/
+media/
